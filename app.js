@@ -20,6 +20,6 @@ app.get('/jobs/all',function(req,res) {
 })
 
 
-app.listen(5000,function(){
+app.listen(process.env.PORT || 3000,function(){
     console.log('server running');
 });
