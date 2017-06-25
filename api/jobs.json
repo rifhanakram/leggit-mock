@@ -1,102 +1,154 @@
  [
         {
-            "_id": "5923f7a51ec79e9e2c6a0b81",
+            "title":"New Job",
+            "requestId": "5923f7a51ec79e9e2c6a0b81",
             "name": "Stefanie Baxter",
+            "requestStatus" : "new",
             "phone": "+1 (931) 569-2621",
-            "address": "573 Carroll Street, Sattley, Mississippi, 527",
-            "description": "adipisicing",
-            "createdAt": "2014-05-06T08:09:47 -06:-30",
-            "lat": 6.916492, 
-            "long": 79.972664
+            "customerAddress": "573 Carroll Street, Sattley, Mississippi, 527",
+            "comment": "adipisicing",
+            "lastupdateddate": "2014-05-06T08:09:47 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a5ac4f362e678290a4",
+            "title":"New Job",
+            "requestId": "5923f7a5ac4f362e678290a4",
             "name": "Floyd Hoffman",
+            "requestStatus" : "new",
             "phone": "+1 (918) 578-3734",
-            "address": "206 Love Lane, Dubois, Colorado, 2199",
-            "description": "reprehenderit",
-            "createdAt": "2014-10-06T03:04:42 -06:-30",
-            "lat": 6.831574, 
-            "long": 79.872319
+            "customerAddress": "206 Love Lane, Dubois, Colorado, 2199",
+            "comment": "reprehenderit",
+            "lastupdateddate": "2014-10-06T03:04:42 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a5da1c30067bd30972",
+            "title":"New Job",
+            "requestId": "5923f7a5da1c30067bd30972",
             "name": "Ella Barr",
+            "requestStatus" : "new",
             "phone": "+1 (848) 453-2941",
-            "address": "619 Plymouth Street, Riceville, Delaware, 4459",
-            "description": "cupidatat",
-            "createdAt": "2016-12-15T12:52:38 -06:-30",
-            "lat": 6.956192, 
-            "long": 79.992664
+            "customerAddress": "619 Plymouth Street, Riceville, Delaware, 4459",
+            "comment": "cupidatat",
+            "lastupdateddate": "2016-12-15T12:52:38 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a5fb435895c5b960d4",
+            "title":"New Job",
+            "requestId": "5923f7a5fb435895c5b960d4",
             "name": "Tabatha Mcintyre",
+            "requestStatus" : "new",
             "phone": "+1 (939) 472-2746",
-            "address": "749 Beach Place, Madrid, American Samoa, 8577",
-            "description": "ut",
-            "createdAt": "2016-12-12T09:55:11 -06:-30",
-            "lat": 6.831574, 
-            "long": 79.872319
+            "customerAddress": "749 Beach Place, Madrid, American Samoa, 8577",
+            "comment": "ut",
+            "lastupdateddate": "2016-12-12T09:55:11 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a58bafcf3c84580ef2",
+            "title":"New Job",
+            "requestId": "5923f7a58bafcf3c84580ef2",
             "name": "Stacey Cruz",
+            "requestStatus" : "new",
             "phone": "+1 (815) 424-2869",
-            "address": "837 Leonora Court, Lupton, Rhode Island, 4027",
-            "description": "velit",
-            "createdAt": "2016-08-03T12:41:59 -06:-30",
-            "lat": 6.831574, 
-            "long": 79.872319
+            "customerAddress": "837 Leonora Court, Lupton, Rhode Island, 4027",
+            "comment": "velit",
+            "lastupdateddate": "2016-08-03T12:41:59 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a53e9820050b46270f",
+            "title":"New Job",
+            "requestId": "5923f7a53e9820050b46270f",
             "name": "Hewitt Avila",
+            "requestStatus" : "new",
             "phone": "+1 (921) 440-3546",
-            "address": "968 Ditmas Avenue, Jacumba, Utah, 3533",
-            "description": "ut",
-            "createdAt": "2014-10-09T02:11:26 -06:-30",
-            "lat": 6.925131, 
-            "long": 79.865284
+            "customerAddress": "968 Ditmas Avenue, Jacumba, Utah, 3533",
+            "comment": "ut",
+            "lastupdateddate": "2014-10-09T02:11:26 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a538d77977bf291c71",
+            "title":"New Job",
+            "requestId": "5923f7a538d77977bf291c71",
             "name": "Maritza Heath",
+            "requestStatus" : "new",
             "phone": "+1 (897) 500-3587",
-            "address": "399 Llama Court, Westboro, Indiana, 9892",
-            "description": "nostrud",
-            "createdAt": "2015-06-21T08:50:50 -06:-30",
-            "lat": 6.916492, 
-            "long": 79.972664
+            "customerAddress": "399 Llama Court, Westboro, Indiana, 9892",
+            "comment": "nostrud",
+            "lastupdateddate": "2015-06-21T08:50:50 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a5c4334e68a04138ba",
+            "title":"New Job",
+            "requestId": "5923f7a5c4334e68a04138ba",
             "name": "Chan Marks",
+            "requestStatus" : "new",
             "phone": "+1 (934) 555-3516",
-            "address": "598 Erasmus Street, Darlington, Georgia, 4687",
-            "description": "voluptate",
-            "createdAt": "2017-01-18T04:26:54 -06:-30",
-            "lat": 6.925131, 
-            "long": 79.865284
+            "customerAddress": "598 Erasmus Street, Darlington, Georgia, 4687",
+            "comment": "voluptate",
+            "lastupdateddate": "2017-01-18T04:26:54 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a5f729f5a6860750c9",
+            "title":"New Job",
+            "requestId": "5923f7a5f729f5a6860750c9",
             "name": "Craft Burch",
+            "requestStatus" : "new",
             "phone": "+1 (829) 547-3125",
-            "address": "338 Quentin Road, Leland, Tennessee, 6825",
-            "description": "consectetur",
-            "createdAt": "2014-11-19T11:57:18 -06:-30",
-            "lat": 6.925131, 
-            "long": 79.865284
+            "customerAddress": "338 Quentin Road, Leland, Tennessee, 6825",
+            "comment": "consectetur",
+            "lastupdateddate": "2014-11-19T11:57:18 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         },
         {
-            "_id": "5923f7a549cae5456173b06d",
+            "title":"New Job",
+            "requestId": "5923f7a549cae5456173b06d",
             "name": "Frazier Fowler",
             "phone": "+1 (802) 522-2200",
-            "address": "354 Narrows Avenue, Tonopah, New Hampshire, 6582",
-            "description": "nisi",
-            "createdAt": "2014-05-25T03:44:30 -06:-30",
-            "lat": 6.831574, 
-            "long": 79.872319
+            "requestStatus" : "new",
+            "customerAddress": "354 Narrows Avenue, Tonopah, New Hampshire, 6582",
+            "comment": "nisi",
+            "lastUpdateddate": "2014-05-25T03:44:30 -06:-30",
+            "customerLocation": {
+                "lat": 6.916492, 
+                "long": 79.972664
+            }
+            
         }
     ]
+
+    
