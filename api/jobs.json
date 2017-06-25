@@ -6,8 +6,8 @@
             "address": "573 Carroll Street, Sattley, Mississippi, 527",
             "description": "adipisicing",
             "registered": "2014-05-06T08:09:47 -06:-30",
-            "latitude": -70.543549,
-            "longitude": -57.388262
+            "latitude": 6.916492, 
+            "longitude": 79.972664
         },
         {
             "_id": "5923f7a5ac4f362e678290a4",
@@ -16,8 +16,8 @@
             "address": "206 Love Lane, Dubois, Colorado, 2199",
             "description": "reprehenderit",
             "registered": "2014-10-06T03:04:42 -06:-30",
-            "latitude": 71.723255,
-            "longitude": 118.680781
+            "latitude": 6.831574, 
+            "longitude": 79.872319
         },
         {
             "_id": "5923f7a5da1c30067bd30972",
@@ -26,8 +26,8 @@
             "address": "619 Plymouth Street, Riceville, Delaware, 4459",
             "description": "cupidatat",
             "registered": "2016-12-15T12:52:38 -06:-30",
-            "latitude": 51.752864,
-            "longitude": -146.911362
+            "latitude": 6.956192, 
+            "longitude": 79.992664
         },
         {
             "_id": "5923f7a5fb435895c5b960d4",
@@ -36,8 +36,8 @@
             "address": "749 Beach Place, Madrid, American Samoa, 8577",
             "description": "ut",
             "registered": "2016-12-12T09:55:11 -06:-30",
-            "latitude": -20.347854,
-            "longitude": 79.847305
+            "latitude": 6.831574, 
+            "longitude": 79.872319
         },
         {
             "_id": "5923f7a58bafcf3c84580ef2",
@@ -46,8 +46,8 @@
             "address": "837 Leonora Court, Lupton, Rhode Island, 4027",
             "description": "velit",
             "registered": "2016-08-03T12:41:59 -06:-30",
-            "latitude": 38.35918,
-            "longitude": -62.736589
+            "latitude": 6.831574, 
+            "longitude": 79.872319
         },
         {
             "_id": "5923f7a53e9820050b46270f",
@@ -56,8 +56,8 @@
             "address": "968 Ditmas Avenue, Jacumba, Utah, 3533",
             "description": "ut",
             "registered": "2014-10-09T02:11:26 -06:-30",
-            "latitude": -12.655129,
-            "longitude": -28.239529
+            "latitude": 6.925131, 
+            "longitude": 79.865284
         },
         {
             "_id": "5923f7a538d77977bf291c71",
@@ -66,8 +66,8 @@
             "address": "399 Llama Court, Westboro, Indiana, 9892",
             "description": "nostrud",
             "registered": "2015-06-21T08:50:50 -06:-30",
-            "latitude": -9.810734,
-            "longitude": -163.841663
+            "latitude": 6.916492, 
+            "longitude": 79.972664
         },
         {
             "_id": "5923f7a5c4334e68a04138ba",
@@ -76,8 +76,8 @@
             "address": "598 Erasmus Street, Darlington, Georgia, 4687",
             "description": "voluptate",
             "registered": "2017-01-18T04:26:54 -06:-30",
-            "latitude": 77.894751,
-            "longitude": -33.025238
+            "latitude": 6.925131, 
+            "longitude": 79.865284
         },
         {
             "_id": "5923f7a5f729f5a6860750c9",
@@ -86,8 +86,8 @@
             "address": "338 Quentin Road, Leland, Tennessee, 6825",
             "description": "consectetur",
             "registered": "2014-11-19T11:57:18 -06:-30",
-            "latitude": 70.689935,
-            "longitude": 163.613604
+            "latitude": 6.925131, 
+            "longitude": 79.865284
         },
         {
             "_id": "5923f7a549cae5456173b06d",
@@ -96,7 +96,7 @@
             "address": "354 Narrows Avenue, Tonopah, New Hampshire, 6582",
             "description": "nisi",
             "registered": "2014-05-25T03:44:30 -06:-30",
-            "latitude": 28.869748,
-            "longitude": 82.759639
+            "latitude": 6.831574, 
+            "longitude": 79.872319
         }
     ]
