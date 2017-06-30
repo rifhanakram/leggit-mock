@@ -1,154 +1,59 @@
- [
+[
         {
-            "title":"New Job",
-            "requestId": "5923f7a51ec79e9e2c6a0b81",
-            "requestSentBy": "Stefanie Baxter",
-            "requestStatus" : "new",
-            "phone": "+1 (931) 569-2621",
-            "customerAddress": "573 Carroll Street, Sattley, Mississippi, 527",
-            "comment": "adipisicing",
-            "lastupdateddate": "2014-05-06T08:09:47 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
+            "id": "1",
+            "customer": {
+                "name": "Sameera",
+                "telephone": "94770190519",
+                "address": "Oslo",
+                "location": {
+                    "longitude": 22.9901232886963,
+                    "latitude": 87.5953903123242
+                }
+            },
+            "title": "cu",
+            "status": 4,
+            "status_value": "COMPLETE",
+            "comment": null,
+            "created_time_date": "2017-01-09T08:03:08.000Z",
+            "updated_time_date": "2017-06-14T13:11:09.773Z",
+            "boligmappa_number": "AAA6224"
         },
         {
-            "title":"New Job",
-            "requestId": "5923f7a5ac4f362e678290a4",
-            "requestSentBy": "Floyd Hoffman",
-            "requestStatus" : "new",
-            "phone": "+1 (918) 578-3734",
-            "customerAddress": "206 Love Lane, Dubois, Colorado, 2199",
-            "comment": "reprehenderit",
-            "lastupdateddate": "2014-10-06T03:04:42 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
+            "id": "5",
+            "customer": {
+                "name": "Shamal Perera",
+                "telephone": "94717309903",
+                "address": "Orrestien 8 A 3150 TOLVSRØD",
+                "location": {
+                    "longitude": -74.0059731,
+                    "latitude": 40.7143528
+                }
+            },
+            "title": "Title",
+            "status": 4,
+            "status_value": "COMPLETE",
+            "comment": "Noen ganger kan det vise seg at det er benyttet byggevarer som er miljøskadelige og bør erstattes. Et kjent eksempel er bruken av asbestsementplater. ",
+            "created_time_date": "2017-02-02T11:23:33.784Z",
+            "updated_time_date": "2017-06-19T05:08:54.419Z",
+            "boligmappa_number": "AAA6781"
         },
         {
-            "title":"New Job",
-            "requestId": "5923f7a5da1c30067bd30972",
-            "requestSentBy": "Ella Barr",
-            "requestStatus" : "new",
-            "phone": "+1 (848) 453-2941",
-            "customerAddress": "619 Plymouth Street, Riceville, Delaware, 4459",
-            "comment": "cupidatat",
-            "lastupdateddate": "2016-12-15T12:52:38 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
-        },
-        {
-            "title":"New Job",
-            "requestId": "5923f7a5fb435895c5b960d4",
-            "requestSentBy": "Tabatha Mcintyre",
-            "requestStatus" : "new",
-            "phone": "+1 (939) 472-2746",
-            "customerAddress": "749 Beach Place, Madrid, American Samoa, 8577",
-            "comment": "ut",
-            "lastupdateddate": "2016-12-12T09:55:11 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
-        },
-        {
-            "title":"New Job",
-            "requestId": "5923f7a58bafcf3c84580ef2",
-            "requestSentBy": "Stacey Cruz",
-            "requestStatus" : "new",
-            "phone": "+1 (815) 424-2869",
-            "customerAddress": "837 Leonora Court, Lupton, Rhode Island, 4027",
-            "comment": "velit",
-            "lastupdateddate": "2016-08-03T12:41:59 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
-        },
-        {
-            "title":"New Job",
-            "requestId": "5923f7a53e9820050b46270f",
-            "requestSentBy": "Hewitt Avila",
-            "requestStatus" : "new",
-            "phone": "+1 (921) 440-3546",
-            "customerAddress": "968 Ditmas Avenue, Jacumba, Utah, 3533",
-            "comment": "ut",
-            "lastupdateddate": "2014-10-09T02:11:26 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
-        },
-        {
-            "title":"New Job",
-            "requestId": "5923f7a538d77977bf291c71",
-            "requestSentBy": "Maritza Heath",
-            "requestStatus" : "new",
-            "phone": "+1 (897) 500-3587",
-            "customerAddress": "399 Llama Court, Westboro, Indiana, 9892",
-            "comment": "nostrud",
-            "lastupdateddate": "2015-06-21T08:50:50 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
-        },
-        {
-            "title":"New Job",
-            "requestId": "5923f7a5c4334e68a04138ba",
-            "requestSentBy": "Chan Marks",
-            "requestStatus" : "new",
-            "phone": "+1 (934) 555-3516",
-            "customerAddress": "598 Erasmus Street, Darlington, Georgia, 4687",
-            "comment": "voluptate",
-            "lastupdateddate": "2017-01-18T04:26:54 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
-        },
-        {
-            "title":"New Job",
-            "requestId": "5923f7a5f729f5a6860750c9",
-            "requestSentBy": "Craft Burch",
-            "requestStatus" : "new",
-            "phone": "+1 (829) 547-3125",
-            "customerAddress": "338 Quentin Road, Leland, Tennessee, 6825",
-            "comment": "consectetur",
-            "lastupdateddate": "2014-11-19T11:57:18 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
-        },
-        {
-            "title":"New Job",
-            "requestId": "5923f7a549cae5456173b06d",
-            "requestSentBy": "Frazier Fowler",
-            "phone": "+1 (802) 522-2200",
-            "requestStatus" : "new",
-            "customerAddress": "354 Narrows Avenue, Tonopah, New Hampshire, 6582",
-            "comment": "nisi",
-            "lastUpdateddate": "2014-05-25T03:44:30 -06:-30",
-            "customerLocation": {
-                "lat": 6.916492, 
-                "long": 79.972664
-            }
-            
+            "id": "3",
+            "customer": {
+                "name": "Yohan",
+                "telephone": "94718117927",
+                "address": "Oslo",
+                "location": {
+                    "longitude": 22.9901232886963,
+                    "latitude": 87.5953903123242
+                }
+            },
+            "title": "Window Broken",
+            "status": 4,
+            "status_value": "COMPLETE",
+            "comment": null,
+            "created_time_date": null,
+            "updated_time_date": "2017-06-15T06:36:03.927Z",
+            "boligmappa_number": "AAA8136"
         }
     ]
-
-    
