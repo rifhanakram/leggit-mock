@@ -16,7 +16,7 @@ app.get('/',function(req,res) {
     });
 });
 app.get('/jobs/all',function(req,res) {
-    res.status(200).json(jobs);
+    res.status(200).json({data: jobs});
 })
 
 
