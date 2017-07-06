@@ -17,24 +17,5 @@
             "created_time_date": "2017-04-02T13:04:18.164Z",
             "updated_time_date": "2017-06-02T13:04:18.164Z",
             "boligmappa_number": "AAA8136"
-        },
-        {
-            "id": "8",
-            "customer": {
-                "name": "Isuru",
-                "telephone": "94717309903",
-                "address": "No. 65, Colombo",
-                "location": {
-                    "longitude": 6.9147,
-                    "latitude": 79.9733
-                }
-            },
-            "title": "Title",
-            "status": 0,
-            "status_value": "NEW",
-            "comment": " hellow ",
-            "created_time_date": "2017-05-02T13:12:44.695Z",
-            "updated_time_date": "2017-06-06T04:03:57.912Z",
-            "boligmappa_number": "AAA8327"
         }
 ]
