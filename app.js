@@ -17,7 +17,7 @@ res.status(200).json({
 });
 });
 
-app.get('/jobs/completed',function(req,res) {
+app.get('/jobrequests',function(req,res) {
 if(req.query.job_status == 4) 
     res.status(200).json({data: completedJobs});
 else if(req.query.job_status == 0) 
